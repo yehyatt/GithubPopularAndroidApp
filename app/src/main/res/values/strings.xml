@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YahyaTitiGithub</string>
+    <string name="ResponseFailure">Response failure</string>
+    <string name="NoInternet">No internet connection</string>
+</resources>
